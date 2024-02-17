@@ -5,7 +5,6 @@ Prazer, meu nome é Nicholas e aqui é o meu cantinho 😃
 - Tenho 19 anos;
 - Moro em São Paulo 🌎;
 - Estou cursando o terceiro semestre de Sistemas de Informação no Instituto Federal de São Paulo 💻;
-- Atualmente, estou aprendendo sobre 📚;
 
 
 ### Tecnologias que conheço 👨‍💻
