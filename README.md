@@ -41,7 +41,7 @@ Para me conhecer melhor, me encontre aqui 👇
 [Git]: https://img.shields.io/badge/Git---?style=flat-square&logo=Git&logoColor=white&labelColor=%23F05032&color=%23F05032
 [GitHub]: https://img.shields.io/badge/GitHub---?style=flat-square&logo=Github&logoColor=white&labelColor=%23181717&color=%23181717
 [GitHubStats]: https://github-readme-stats.vercel.app/api?username=niculinhaz&show_icons=true&theme=tokyonight
-[GitHubLanguages]: https://github-readme-stats.vercel.app/api/top-langs/?username=niculinhaz&layout=compact&theme=dark
+[GitHubLanguages]: https://github-readme-stats.vercel.app/api/top-langs/?username=niculinhaz&layout=compact&theme=tokyonight
 [InstagramBadge]: https://img.shields.io/badge/Instagram---?style=flat-square&logo=instagram&logoColor=white&labelColor=pink&color=pink
 [InstagramLink]: https://www.instagram.com/nicholxz_/
 [Java]: https://img.shields.io/badge/Java---?style=flat-square&logoColor=white&labelColor=%233a75b0&color=%233a75b0
